@@ -1,6 +1,6 @@
 # Employee Leave Management System
 ## ER Diagram
-![DBMS_EmployeeLeaveManagementSystem](https://github.com/AadarshR05/ELMS_Domain_DBMS_Design/assets/92199351/07644156-871e-4b31-b73c-245d3e483a30)
+![DBMS_EmployeeLeaveManagementSystem](https://github.com/AadarshR05/ELMS_Domain_DBMS_Design/assets/92199351/043aacd2-cd25-4551-b142-d4334cf45d7b)
 
 
 ## Overview
