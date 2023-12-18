@@ -2,15 +2,13 @@
 ## ER Diagram
 ![DBMS_EmployeeLeaveManagementSystem](https://github.com/AadarshR05/ELMS_Domain_DBMS_Design/assets/92199351/043aacd2-cd25-4551-b142-d4334cf45d7b)
 
-
 ## Overview
-![Aadarsh_R_DBMS_Assignment_2_14_12_2023_page-0001](https://github.com/AadarshR05/ELMS_Domain_DBMS_Design/assets/92199351/1c6c7068-3ed4-4a81-8074-90dfa6a67c14)
-![Aadarsh_R_DBMS_Assignment_2_14_12_2023_page-0002](https://github.com/AadarshR05/ELMS_Domain_DBMS_Design/assets/92199351/7d2b835c-afa6-4566-9169-9663ecebd39d)
-![Aadarsh_R_DBMS_Assignment_2_14_12_2023_page-0003](https://github.com/AadarshR05/ELMS_Domain_DBMS_Design/assets/92199351/2f2779ac-d37b-4301-a8ff-1a2b447468e1)
-![Aadarsh_R_DBMS_Assignment_2_14_12_2023_page-0004](https://github.com/AadarshR05/ELMS_Domain_DBMS_Design/assets/92199351/010fc1c4-f2c0-4a6f-be96-1cd698234806)
-![Aadarsh_R_DBMS_Assignment_2_14_12_2023_page-0005](https://github.com/AadarshR05/ELMS_Domain_DBMS_Design/assets/92199351/7d676d0c-dc14-4d2c-8d8a-538a15e22cc3)
-![Aadarsh_R_DBMS_Assignment_2_14_12_2023_page-0006](https://github.com/AadarshR05/ELMS_Domain_DBMS_Design/assets/92199351/4f447fab-4be2-4084-bad3-e104d02c7ad3)
-![Aadarsh_R_DBMS_Assignment_2_14_12_2023_page-0007](https://github.com/AadarshR05/ELMS_Domain_DBMS_Design/assets/92199351/fa3bcef9-e22b-423e-8ccd-dedec8771153)
-![Aadarsh_R_DBMS_Assignment_2_14_12_2023_page-0008](https://github.com/AadarshR05/ELMS_Domain_DBMS_Design/assets/92199351/85ee26b3-9c6e-4b8d-96ee-a1d2dc1cd4c7)
-![Aadarsh_R_DBMS_Assignment_2_14_12_2023_page-0009](https://github.com/AadarshR05/ELMS_Domain_DBMS_Design/assets/92199351/acef0050-d397-4d70-a3b4-688bcea2d198)
-
+![Aadarsh_R_DBMS_Assignment_2_14_12_2023_page-0001](https://github.com/AadarshR05/ELMS_Domain_DBMS_Design/assets/92199351/8c7830a7-55b2-49b6-814d-acedfaaa87c2)
+![Aadarsh_R_DBMS_Assignment_2_14_12_2023_page-0002](https://github.com/AadarshR05/ELMS_Domain_DBMS_Design/assets/92199351/176021a3-ab97-4c85-849f-1e22c9d253d6)
+![Aadarsh_R_DBMS_Assignment_2_14_12_2023_page-0003](https://github.com/AadarshR05/ELMS_Domain_DBMS_Design/assets/92199351/81e077af-4b3d-4d00-ad42-39106b600e19)
+![Aadarsh_R_DBMS_Assignment_2_14_12_2023_page-0004](https://github.com/AadarshR05/ELMS_Domain_DBMS_Design/assets/92199351/a664bd4c-a19e-46ab-979a-ca790ffc6fa8)
+![Aadarsh_R_DBMS_Assignment_2_14_12_2023_page-0005](https://github.com/AadarshR05/ELMS_Domain_DBMS_Design/assets/92199351/5ecb989f-2e1c-4159-9e3d-11dd312c6451)
+![Aadarsh_R_DBMS_Assignment_2_14_12_2023_page-0006](https://github.com/AadarshR05/ELMS_Domain_DBMS_Design/assets/92199351/7bf77b7d-2346-4978-95e3-5c9d7682e673)
+![Aadarsh_R_DBMS_Assignment_2_14_12_2023_page-0007](https://github.com/AadarshR05/ELMS_Domain_DBMS_Design/assets/92199351/1093c2cb-71c6-43d6-a0c9-ee1c756b4e7e)
+![Aadarsh_R_DBMS_Assignment_2_14_12_2023_page-0008](https://github.com/AadarshR05/ELMS_Domain_DBMS_Design/assets/92199351/383b71a7-2239-42de-b65f-10d4fe062d70)
+![Aadarsh_R_DBMS_Assignment_2_14_12_2023_page-0009](https://github.com/AadarshR05/ELMS_Domain_DBMS_Design/assets/92199351/a499ebc9-7b4c-46ce-866d-9374af5b873f)
